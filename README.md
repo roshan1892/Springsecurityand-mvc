@@ -6,4 +6,4 @@ will be redirected to access denied page.
 In the first project,i stored the student user details and authorities in the database where the password is encrypted using spring security's 
 recommended algorith bcrypt algorithm.While in the other,i stored user details and authorities in memory(hence i didn't use bcrypt algorithm
 for this case).
-Used Technologies: Spring Security,Spring MVC,Hibernate,MySQL,JSP
+Used Technologies: Spring Security,Spring MVC,Hibernate,Hibernate Validator,MySQL,JSP
